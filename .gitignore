@@ -3,3 +3,6 @@
 *raw_data
 *pip-cache
 */env
+env/
+.env
+.env/
