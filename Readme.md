@@ -59,12 +59,12 @@ cd employee-feedback-analyzer
 pip install -r requirements.txt
 python employee_feedback_analysis.py
 ```
-
+<!-- 
 ### Option 2 – Google Colab (zero setup)
 Open this ready-to-run notebook:  
 https://colab.research.google.com/drive/1kG8zJ9vXz8pL5nQmRtY7uI2wErT5vCxF  
 
-Just click “Run all” – everything works out of the box.
+Just click “Run all” – everything works out of the box. -->
 
 ## Sample Output (employee_feedback_analysis.csv)
 | Feedback                                                          | Sentiment | Stress_Level | Topic_Keywords              | HR_Recommendations                          |
