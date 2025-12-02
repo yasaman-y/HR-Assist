@@ -1,1 +1,5 @@
 *env
+*.ipynb
+*raw_data
+*pip-cache
+*/env
